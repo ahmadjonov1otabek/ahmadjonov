@@ -1,2 +1,1 @@
-# ahmadjonov
-19901993otaw
+ahmadjonov otash
